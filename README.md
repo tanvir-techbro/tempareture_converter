@@ -15,7 +15,7 @@ Perfect for learning basic C++ input/output, functions, and control structures!
 
 No complex installation needed — just a C++ compiler!
 
-### Option 1: Quickest way (Download & Run)
+### Option 1: Download and run
 
 1. Go to the green **Code** button (top right) → **Download ZIP**
 2. Extract the ZIP file to any folder
@@ -23,6 +23,20 @@ No complex installation needed — just a C++ compiler!
    (or just navigate to it using `cd path/to/folder`)
 
 4. Compile and run:
+
+   **On Linux, macOS, or Windows (with g++ installed):**
+   ```bash
+   g++ main.cpp -o converter
+   ./converter          # Linux/macOS
+   # or
+   converter.exe        # Windows
+
+### Option 2: Clone
+
+1. Cloning:
+   ```bash
+   git clone https://github.com/tanvir-techbro/tempareture_converter.git
+2. Compile and run:
 
    **On Linux, macOS, or Windows (with g++ installed):**
    ```bash
