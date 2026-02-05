@@ -26,7 +26,7 @@ No complex installation needed — just a C++ compiler!
 
    **On Linux, macOS, or Windows (with g++ installed):**
    ```bash
-   g++ main.cpp -o converter
+   g++ tempareture_converter.cpp -o converter
    ./converter          # Linux/macOS
    # or
    converter.exe        # Windows
@@ -40,7 +40,7 @@ No complex installation needed — just a C++ compiler!
 
    **On Linux, macOS, or Windows (with g++ installed):**
    ```bash
-   g++ main.cpp -o converter
+   g++ tempareture_converter.cpp -o converter
    ./converter          # Linux/macOS
    # or
    converter.exe        # Windows
